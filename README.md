@@ -2,6 +2,8 @@
 
 A powerful and intuitive AI-powered image generation application that transforms text descriptions into stunning visual artwork using Stability AI's advanced image generation capabilities.
 
+- DEMO: [LINK](https://zingy-zuccutto-0a3aa6.netlify.app/)
+
 ## ✨ Features
 
 - **Text-to-Image Generation**: Convert your text descriptions into high-quality images
